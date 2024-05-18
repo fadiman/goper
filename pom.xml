@@ -104,7 +104,18 @@
 			<version>1.16</version>
 		</dependency>
 		
+		<!-- 추가 first 7 진행 중 -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-core</artifactId>
+			<version>2.9.8</version>
+		</dependency>
 		
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.9.8</version>
+		</dependency>
 
 		<!-- @Inject -->
 		<dependency>
